@@ -1,0 +1,10 @@
+pandas
+ipykernel
+nbformat
+plotly
+jupyter 
+ipywidgets
+prophet
+optuna
+scikit-learn
+pmdarima
